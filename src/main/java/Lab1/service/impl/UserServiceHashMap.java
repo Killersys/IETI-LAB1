@@ -9,9 +9,10 @@ import java.util.List;
 
 @Service
 public class UserServiceHashMap implements UserService {
-    private HashMap<String,User> Users;
+    private HashMap<String,User> users;
     public UserServiceHashMap(){
-        users= new HashMap();}
+         users = new HashMap();
+    }
     @Override
     public User create(User user) {
         return users.put(user.getId(),user);}
