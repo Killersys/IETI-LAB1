@@ -1,6 +1,6 @@
-package Lab1.service;
+package Lab1.Lab1.service;
 
-import Lab1.data.User;
+import Lab1.Lab1.data.User;
 
 import java.util.List;
 

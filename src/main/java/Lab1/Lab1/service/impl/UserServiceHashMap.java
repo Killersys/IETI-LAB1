@@ -1,7 +1,7 @@
-package Lab1.service.impl;
+package Lab1.Lab1.service.impl;
 
-import Lab1.data.User;
-import Lab1.service.UserService;
+import Lab1.Lab1.data.User;
+import Lab1.Lab1.service.UserService;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.HashMap;

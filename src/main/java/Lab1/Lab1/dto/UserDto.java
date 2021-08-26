@@ -1,4 +1,4 @@
-package Lab1.dto;
+package Lab1.Lab1.dto;
 
 public class UserDto {
     private String name;

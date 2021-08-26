@@ -1,6 +1,6 @@
-package Lab1.data;
+package Lab1.Lab1.data;
 
-import Lab1.dto.UserDto;
+import Lab1.Lab1.dto.UserDto;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import java.util.Date;
 import java.util.UUID;
